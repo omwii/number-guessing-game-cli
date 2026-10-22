@@ -1,0 +1,15 @@
+C:\Users\samar\Projects\C# and .NET\NumberGuessingGameCLI\obj\Debug\net10.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samar\Projects\C# and .NET\NumberGuessingGameCLI\obj\Debug\net10.0\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\samar\Projects\C# and .NET\NumberGuessingGameCLI\obj\Debug\net10.0\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\samar\Projects\C# and .NET\NumberGuessingGameCLI\obj\Debug\net10.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\samar\Projects\C# and .NET\NumberGuessingGameCLI\obj\Debug\net10.0\NumberGuessingGame.sourcelink.json
+C:\Users\samar\Projects\C# and .NET\NumberGuessingGameCLI\bin\Debug\net10.0\NumberGuessingGame.exe
+C:\Users\samar\Projects\C# and .NET\NumberGuessingGameCLI\bin\Debug\net10.0\NumberGuessingGame.deps.json
+C:\Users\samar\Projects\C# and .NET\NumberGuessingGameCLI\bin\Debug\net10.0\NumberGuessingGame.runtimeconfig.json
+C:\Users\samar\Projects\C# and .NET\NumberGuessingGameCLI\bin\Debug\net10.0\NumberGuessingGame.dll
+C:\Users\samar\Projects\C# and .NET\NumberGuessingGameCLI\bin\Debug\net10.0\NumberGuessingGame.pdb
+C:\Users\samar\Projects\C# and .NET\NumberGuessingGameCLI\obj\Debug\net10.0\NumberGuessingGame.dll
+C:\Users\samar\Projects\C# and .NET\NumberGuessingGameCLI\obj\Debug\net10.0\refint\NumberGuessingGame.dll
+C:\Users\samar\Projects\C# and .NET\NumberGuessingGameCLI\obj\Debug\net10.0\NumberGuessingGame.pdb
+C:\Users\samar\Projects\C# and .NET\NumberGuessingGameCLI\obj\Debug\net10.0\NumberGuessingGame.genruntimeconfig.cache
+C:\Users\samar\Projects\C# and .NET\NumberGuessingGameCLI\obj\Debug\net10.0\ref\NumberGuessingGame.dll

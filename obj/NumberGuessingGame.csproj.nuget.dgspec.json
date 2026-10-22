@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samar\\Projects\\C# and .NET\\NumberGuessingGame\\NumberGuessingGame.csproj": {}
+    "C:\\Users\\samar\\Projects\\C# and .NET\\NumberGuessingGameCLI\\NumberGuessingGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samar\\Projects\\C# and .NET\\NumberGuessingGame\\NumberGuessingGame.csproj": {
+    "C:\\Users\\samar\\Projects\\C# and .NET\\NumberGuessingGameCLI\\NumberGuessingGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samar\\Projects\\C# and .NET\\NumberGuessingGame\\NumberGuessingGame.csproj",
+        "projectUniqueName": "C:\\Users\\samar\\Projects\\C# and .NET\\NumberGuessingGameCLI\\NumberGuessingGame.csproj",
         "projectName": "NumberGuessingGame",
-        "projectPath": "C:\\Users\\samar\\Projects\\C# and .NET\\NumberGuessingGame\\NumberGuessingGame.csproj",
+        "projectPath": "C:\\Users\\samar\\Projects\\C# and .NET\\NumberGuessingGameCLI\\NumberGuessingGame.csproj",
         "packagesPath": "C:\\Users\\samar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samar\\Projects\\C# and .NET\\NumberGuessingGame\\obj\\",
+        "outputPath": "C:\\Users\\samar\\Projects\\C# and .NET\\NumberGuessingGameCLI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,6 +45,12 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "System.Runtime.Extensions": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

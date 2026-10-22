@@ -1,1 +1,5 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using NumberGuessingGame;
+
+var game = new Game();
+
+game.Start();
